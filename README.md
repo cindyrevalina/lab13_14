@@ -1,3 +1,7 @@
+Nama        : Cindy Revalina Simanullang
+Nim         : 312410417
+Mata Kuliah : Pemrograman Web 1
+
 # Database Sederhana
 
 Aplikasi web sederhana untuk mengelola database barang menggunakan PHP dan MySQL. Versi ini telah dioptimalkan untuk tampilan yang bersih **tanpa kolom gambar** dan form yang berada di posisi **tengah (center)**.
@@ -5,19 +9,19 @@ Aplikasi web sederhana untuk mengelola database barang menggunakan PHP dan MySQL
 ---
 ```
 ## Fitur Utama
-* **Form Tengah (Centered UI)**: Halaman Login, Tambah, dan Edit berada di tengah layar untuk estetika yang lebih baik.
-* **CRUD Database**: Create (Tambah), Read (Tampil), Update (Ubah), dan Delete (Hapus) data barang.
-* **Pencarian Data**: Filter data barang berdasarkan nama secara langsung.
-* **Pagination**: Pembagian data per halaman (default: 5 data per halaman).
-* **Tanpa Gambar**: Fokus pada data tekstual untuk kecepatan input.
-* **Konfirmasi Hapus**: Fitur keamanan berupa pesan konfirmasi sebelum data benar-benar dihapus.
+Form Tengah (Centered UI)**: Halaman Login, Tambah, dan Edit berada di tengah layar untuk estetika yang lebih baik.
+CRUD Database: Create (Tambah), Read (Tampil), Update (Ubah), dan Delete (Hapus) data barang.
+Pencarian Data: Filter data barang berdasarkan nama secara langsung.
+Pagination: Pembagian data per halaman (default: 5 data per halaman).
+Tanpa Gambar: Fokus pada data tekstual untuk kecepatan input.
+Konfirmasi Hapus: Fitur keamanan berupa pesan konfirmasi sebelum data benar-benar dihapus.
 
 ---
 
 ## Persyaratan Sistem
-* **Web Server**: XAMPP (Apache & MySQL).
-* **Bahasa**: PHP 7.x atau lebih baru.
-* **Database**: MySQL/MariaDB.
+Web Server: XAMPP (Apache & MySQL).
+Bahasa: PHP 7.x atau lebih baru.
+Database: MySQL/MariaDB.
 ```
 
 
@@ -48,4 +52,7 @@ CREATE TABLE data_barang (
     harga_beli DECIMAL(10,2),
     stok INT(11)
 );
+```
 
+Link sql nya
+http://localhost/PRAKTIKUM_13_14/index.php
