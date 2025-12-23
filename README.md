@@ -27,6 +27,8 @@ Aplikasi web sederhana untuk mengelola database barang menggunakan PHP dan MySQL
 2. Tampilan dasboard
    <img width="1332" height="684" alt="image" src="https://github.com/user-attachments/assets/929a52b6-f3d2-40ab-bc28-9ef9832647f8" />
    
+3. Tampilan Tambah Barang
+   <img width="1284" height="648" alt="image" src="https://github.com/user-attachments/assets/744d1140-b8a5-4e07-82ec-bb342d7e206b" />
 
 ---
 
