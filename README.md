@@ -34,3 +34,7 @@ CREATE TABLE data_barang (
     stok INT(11)
 );
 
+## Screenshots
+Tampilan utama
+<img width="1332" height="684" alt="image" src="https://github.com/user-attachments/assets/929a52b6-f3d2-40ab-bc28-9ef9832647f8" />
+
