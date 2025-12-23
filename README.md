@@ -1,9 +1,9 @@
-# Aplikasi Manajemen Inventaris Barang
+# Database Sederhana
 
 Aplikasi web sederhana untuk mengelola database barang menggunakan PHP dan MySQL. Versi ini telah dioptimalkan untuk tampilan yang bersih **tanpa kolom gambar** dan form yang berada di posisi **tengah (center)**.
 
 ---
-
+```
 ## Fitur Utama
 * **Form Tengah (Centered UI)**: Halaman Login, Tambah, dan Edit berada di tengah layar untuk estetika yang lebih baik.
 * **CRUD Database**: Create (Tambah), Read (Tampil), Update (Ubah), dan Delete (Hapus) data barang.
@@ -18,6 +18,7 @@ Aplikasi web sederhana untuk mengelola database barang menggunakan PHP dan MySQL
 * **Web Server**: XAMPP (Apache & MySQL).
 * **Bahasa**: PHP 7.x atau lebih baru.
 * **Database**: MySQL/MariaDB.
+```
 
 
 ## Screenshots
@@ -29,6 +30,9 @@ Aplikasi web sederhana untuk mengelola database barang menggunakan PHP dan MySQL
    
 3. Tampilan Tambah Barang
    <img width="1284" height="648" alt="image" src="https://github.com/user-attachments/assets/744d1140-b8a5-4e07-82ec-bb342d7e206b" />
+
+4. Tampilan Edit
+   <img width="1351" height="552" alt="image" src="https://github.com/user-attachments/assets/6114a6c0-01b0-483e-80b7-c54a00cf1c53" />
 
 ---
 
