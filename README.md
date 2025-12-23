@@ -19,6 +19,15 @@ Aplikasi web sederhana untuk mengelola database barang menggunakan PHP dan MySQL
 * **Bahasa**: PHP 7.x atau lebih baru.
 * **Database**: MySQL/MariaDB.
 
+
+## Screenshots
+1. Tampilan Login
+   <img width="1347" height="616" alt="image" src="https://github.com/user-attachments/assets/205815a6-d22a-4114-8b8c-1954718d73d1" />
+
+2. Tampilan dasboard
+   <img width="1332" height="684" alt="image" src="https://github.com/user-attachments/assets/929a52b6-f3d2-40ab-bc28-9ef9832647f8" />
+   
+
 ---
 
 ## Struktur Tabel Database
@@ -33,8 +42,4 @@ CREATE TABLE data_barang (
     harga_beli DECIMAL(10,2),
     stok INT(11)
 );
-
-## Screenshots
-Tampilan utama
-<img width="1332" height="684" alt="image" src="https://github.com/user-attachments/assets/929a52b6-f3d2-40ab-bc28-9ef9832647f8" />
 
